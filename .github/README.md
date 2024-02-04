@@ -14,10 +14,6 @@
 <a href="https://github.com/Aruack/YASHIKAXREEMA/commits/Aruack"> <img src="https://img.shields.io/github/last-commit/Aruack/YASHIKAXREEMA?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-<p align="center">
-  <img src="https://telegra.ph/file/78531379e51c57b26516d.jpg">
-</p>
-
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
